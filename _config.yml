@@ -17,6 +17,7 @@ lang: "en"
 url: "https://200soo.github.io/" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  200soo
+disqus_username:  200soo
 
 # Build settings
 markdown: kramdown
