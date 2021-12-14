@@ -44,6 +44,7 @@ copyright: Copyright (c) 2021-{currentYear} <a href="https://200soo.github.io">{
 
 description: >- # this means to ignore newlines until "baseurl:"
   personal programming achiving site
+  design, data, visualizing, program.
 
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://200soo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
