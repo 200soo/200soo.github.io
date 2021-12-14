@@ -15,9 +15,8 @@ description: > # this means to ignore newlines until "baseurl:"
 #baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
 url: "https://200soo.github.io/" # the base hostname & protocol for your site
-twitter_username: -
+twitter_username: 
 github_username:  200soo
-disqus_username:  200soo
 
 # Build settings
 markdown: kramdown
@@ -46,5 +45,5 @@ images: '/assets/images'
 #Custom vars
 comment:
   provider:     "disqus"
-  dusqus:
+  disqus:
     shortname:  "200soo"
