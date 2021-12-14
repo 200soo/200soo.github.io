@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: Blog for 200soo
+email: soohyun1389@kookmin.ac.kr
+author: Soohyun Won
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -43,9 +43,7 @@ author: GitHub User
 copyright: "Copyright (c) 2021-{currentYear} <a href="https://200soo.github.io">{author}</a>"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  personal programming achiving site
 
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://200soo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
