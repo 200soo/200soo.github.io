@@ -40,7 +40,7 @@ author: Soohyun Won
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Copyright (c) 2021-{currentYear} <a href="https://200soo.github.io">{author}</a>"
+copyright: Copyright (c) 2021-{currentYear} <a href="https://200soo.github.io">{author}</a>
 
 description: >- # this means to ignore newlines until "baseurl:"
   personal programming achiving site
