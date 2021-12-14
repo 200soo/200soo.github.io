@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "soohyun"
-email: "soohyun1389@kookmin.ac.kr"
-author: "200soo"
+title: 200soo
+email: soohyun1389@kookmin.ac.kr
+author: 200soo
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -93,19 +93,19 @@ yat:
 #     img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
 #     text: Japanese
 #
-  - lang: ko
-    img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
-    text: Korean
+  # - lang: ko
+  #   img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
+  #   text: Korean
 #
 #   - lang: ru
 #     img: https://cdn.countryflags.com/thumbs/russia/flag-400.png
 #     text: Russian
 
 # You can choose a theme color
-Default theme colors as below:
-coolblack: #090a0b
-spacegrey: #353535
-snowwhite: #ffffff
+# Default theme colors as below:
+# coolblack: #090a0b
+# spacegrey: #353535
+# snowwhite: #ffffff
 #
 # theme_color: snowwhite
 #
@@ -206,3 +206,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
+
+#Custom vars
+comment:
+  provider:     "disqus"
+  disqus:
+    shortname:  "200soo"
