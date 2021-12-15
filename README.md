@@ -13,13 +13,11 @@
 
 ## 1. 블로그 사용 목적
 
-<h5 align="center">계획한 블로그에 들어갈 내용</h5>
+<h4 align="center">계획한 블로그에 들어갈 내용</h4>
 
-```Ruby
 - 2021-02 유레카 프로젝트 보고서 및 특강 정리
 - 앞으로의 계획과 각종 작업물 아카이빙
 - 자주 찾거나 필요한 자료 아카이빙
-```
 
 
 ## 2. 블로그에 적합한 템플릿 선정
@@ -30,5 +28,5 @@
 - 사진, 동영상 업로드가 가능하며 예시 파일이 존재
 - 카테고리, 태그 기능
 
-적용한 테마는 `jekyll-theme-yat`입니다.
+적용한 테마는 <a href="https://github.com/jeffreytse/jekyll-theme-yat" target="_blank"><code>jekyll-theme-yat</code></a>입니다.
 
