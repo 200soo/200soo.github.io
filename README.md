@@ -1,9 +1,10 @@
 ## <h1 align="center">Github Blog Making</h1>
 
 <div align="center">
-    <span style="color: #0000ff">국민대학교 2021-02 유레카프로젝트</span> <br>
+    국민대학교 2021-02 유레카프로젝트 <br>
     최종 과제물 제출을 위한 <code>Remote Repository</code>입니다.
 </div>
+
 
 1. 블로그 사용 목적
 2. 블로그에 적합한 템플릿 선정
