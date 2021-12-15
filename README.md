@@ -1,9 +1,10 @@
 ## <h1 align="center">Github Blog Making</h1>
 
-<span style="color:blue">국민대학교 2021-02 유레카프로젝트</span> <br>
-최종 과제물 제출을 위한 `Remote Repository`입니다.
+<p align="center">
+    <span style="color:blue">국민대학교 2021-02 유레카프로젝트</span> <br>
+    최종 과제물 제출을 위한 `Remote Repository`입니다.
+</p>
 
-<span style="color:yellow"><u>**목차**</u></span>
 1. 블로그 사용 목적
 2. 블로그에 적합한 템플릿 선정
 3. `Header`, `favicon` 적용
@@ -12,8 +13,8 @@
 
 ## 1. 블로그 사용 목적
 
+<h5 align="center">계획한 블로그에 들어갈 내용</h5>
 ```Ruby
-계획한 블로그에 들어갈 내용
 - 2021-02 유레카 프로젝트 보고서 및 특강 정리
 - 앞으로의 계획과 각종 작업물 아카이빙
 - 자주 찾거나 필요한 자료 아카이빙
