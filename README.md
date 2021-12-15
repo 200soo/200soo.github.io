@@ -3,7 +3,7 @@
 <div align="center">
     국민대학교 2021-02 유레카프로젝트 <br>
     최종 과제물 제출을 위한 <code>Remote Repository</code>입니다. <br>
-    <sub>20203102 원수현</sub>
+    <sub>by KMU SWP-1 20203102 원수현</sub>
 </div>
 <br>
 
