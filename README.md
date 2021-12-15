@@ -3,7 +3,7 @@
 <span style="color:blue">국민대학교 2021-02 유레카프로젝트</span> <br>
 최종 과제물 제출을 위한 `Remote Repository`입니다.
 
-<u> style="color="blue">**목차**</u>
+<u style="color="blue">**목차**</u>
 1. 블로그 사용 목적
 2. 블로그에 적합한 템플릿 선정
 3. `Header`, `favicon` 적용
