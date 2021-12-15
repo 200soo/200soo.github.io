@@ -1,5 +1,4 @@
 <h1 align="center">Github Blog Making</h1>
----
 
 <div align="center">
     국민대학교 2021-02 유레카프로젝트 <br>
