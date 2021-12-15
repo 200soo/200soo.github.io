@@ -2,7 +2,7 @@
 
 <div align="center">
     <span style="color:blue">국민대학교 2021-02 유레카프로젝트</span> <br>
-    최종 과제물 제출을 위한 `Remote Repository`입니다.
+    최종 과제물 제출을 위한 <code>Remote Repository</code>입니다.
 </div>
 
 1. 블로그 사용 목적
