@@ -28,7 +28,7 @@ comments: True
 
 ### Enter
 
-```
+```markdown
 <br>
 ```
 혹은 Space*2 이후 엔터 키도 작동을 한다.
